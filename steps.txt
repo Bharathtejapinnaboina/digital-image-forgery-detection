@@ -1,0 +1,11 @@
+steps.txt
+
+1. Open VSCode
+2. open the folder : D:\Forgery Detection Final\Forgery Detection Final
+3. Open the terminal change from Powershell to command prompt
+4. Then run the command: forgery\Scripts\activate.bat
+5. Run the command : streamlit run app.py
+6. the application will automatically open in your browser.
+7. To show xai : Run the command python xai.py in the terminal.
+8. Remember to not make changes to the forgery folder.
+9. to run the partial implementation : RUn the command   -> streamlit run run.py
